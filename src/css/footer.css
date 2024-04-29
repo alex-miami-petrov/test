@@ -30,7 +30,12 @@
 .ftr-soc-link {
 }
 .ftr-soc-icon {
-  fill: #fbfbfb;
+  /* fill: #fbfbfb; */
+  border: 1px solid rgba(251, 251, 251, 0.1);
+  border-radius: 10px;
+  padding: 8px;
+  width: 36px;
+  height: 36px;
 }
 .ftr-tel {
 }
