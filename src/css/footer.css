@@ -22,7 +22,8 @@
 .ftr-soc-link {
 }
 .ftr-soc-icon {
-  stroke: #fbfbfb;
+  fill: transparent;
+  stroke: azure;
 }
 .ftr-tel {
 }
