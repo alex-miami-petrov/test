@@ -3,3 +3,48 @@
   padding: 0 20px;
   margin: 0 auto;
 }
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 28px;
+  border-radius: 30px;
+  padding-left: 28px;
+  padding-right: 28px;
+  background-color: #0c0c0c;
+}
+
+.ftr-logo {
+}
+.ftr-soc-list {
+}
+.soc-list-item {
+}
+.ftr-soc-link {
+}
+.ftr-soc-icon {
+  stroke: #fbfbfb;
+}
+.ftr-tel {
+}
+.ftr-tel-link {
+}
+.ftr-title {
+}
+.ftr-menu-1 {
+}
+.ftr-m-item {
+}
+.ftr-m-link {
+}
+.ftr-menu-2 {
+}
+.ftr-ad-text {
+}
+.copyrights {
+}
+.policy {
+}
+.terms-link {
+}
+.policy-link {
+}
