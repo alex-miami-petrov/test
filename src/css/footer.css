@@ -12,9 +12,10 @@
   background-color: #0c0c0c;
 }
 
-/* .ftr-container {
-  padding: 0 28px;
-} */
+.ftr-wrap {
+  padding-left: 28px;
+  padding-right: 28px;
+}
 
 .ftr-logo {
   margin-bottom: 20px;
@@ -32,8 +33,6 @@
   fill: #fbfbfb;
 }
 .ftr-tel {
-  margin-bottom: 40px;
-  margin-left: 28px;
 }
 .ftr-tel-link {
   display: flex;
@@ -41,14 +40,14 @@
   font-size: 12px;
   line-height: 1.3;
   text-transform: uppercase;
-  text-align: center;
+  /* text-align: center; */
   color: #fbfbfb;
   border: 1px solid rgba(251, 251, 251, 0.2);
   border-radius: 16px;
   max-width: 156px;
   height: 44px;
   padding: 14px 20px;
-  margin-left: 28px;
+  margin-bottom: 40px;
 }
 .ftr-title {
   font-weight: 600;
