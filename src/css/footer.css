@@ -14,16 +14,16 @@
 }
 
 .ftr-logo {
+  width: 90px;
 }
 .ftr-soc-list {
+  display: flex;
 }
 .soc-list-item {
 }
 .ftr-soc-link {
 }
 .ftr-soc-icon {
-  fill: transparent;
-  stroke: azure;
 }
 .ftr-tel {
 }
