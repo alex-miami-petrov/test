@@ -1,5 +1,5 @@
 .container {
-  max-width: 1325px;
+  max-width: 375px;
   padding: 0 20px;
   margin: 0 auto;
 }
@@ -7,7 +7,7 @@
 .footer {
   padding-top: 40px;
   padding-bottom: 28px;
-
+  margin: 0 auto;
   border-radius: 30px;
   background-color: #0c0c0c;
 }
@@ -32,8 +32,8 @@
   fill: #fbfbfb;
 }
 .ftr-tel {
-  display: flex;
-  justify-content: flex-start;
+  margin-bottom: 40px;
+  margin-left: 28px;
 }
 .ftr-tel-link {
   display: flex;
@@ -48,8 +48,7 @@
   max-width: 156px;
   height: 44px;
   padding: 14px 20px;
-  margin-bottom: 40px;
-  justify-content: center;
+  margin-left: 28px;
 }
 .ftr-title {
   font-weight: 600;
@@ -60,6 +59,7 @@
   color: #fbfbfb;
   max-width: 279px;
   font-family: 'Gilroy', sans-serif;
+  margin: 0 auto;
 }
 .ftr-menu {
 }
