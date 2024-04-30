@@ -77,7 +77,7 @@
     padding-bottom: 80px;
     border-radius: 0;
     background-color: unset;
-    background-size: 704px 512px;
+    /* background-size: 704px 512px; */
   }
 
   .about-wrap {
@@ -92,7 +92,8 @@
     background-color: #f3f3f3;
     border-radius: 50px;
     /* align-items: center; */
-    padding: 80px 60px;
+    padding-left: 60px;
+    padding-top: 80px;
   }
 
   .about-title {
@@ -130,8 +131,13 @@
     margin: 0 auto;
   }
 
+  .about-container {
+    width: 1150px;
+  }
+
   .about-wrap {
     margin-bottom: 0;
+    flex-direction: row;
   }
 
   .about-us {
@@ -141,7 +147,22 @@
     background-color: unset;
   }
 
+  .about-text-wrap {
+    padding: 80px 60px 0 60px;
+
+    /* flex-direction: row; */
+  }
+
+  .about-text-1 {
+    max-width: 460px;
+  }
+
   .about-text-2 {
     margin-bottom: 60px;
+    max-width: 460px;
+  }
+
+  .about-img {
+    max-width: 530px;
   }
 }
