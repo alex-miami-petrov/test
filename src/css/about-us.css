@@ -73,7 +73,7 @@
   }
 
   .about-us {
-    padding-top: 80px;
+    padding-top: 0;
     padding-bottom: 80px;
     border-radius: 0;
     background-color: unset;
@@ -81,10 +81,18 @@
   }
 
   .about-wrap {
-    display: block;
-    margin-bottom: 40px;
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+  }
+
+  .about-text-wrap {
+    display: flex;
+    flex-direction: column;
     background-color: #f3f3f3;
     border-radius: 50px;
+    /* align-items: center; */
+    padding: 80px 60px;
   }
 
   .about-title {
@@ -96,10 +104,15 @@
   .about-text-1 {
     font-size: 16px;
     line-height: 1.25;
+    max-width: 584px;
   }
   .about-text-2 {
     font-size: 16px;
     line-height: 1.25;
+    max-width: 584px;
+  }
+
+  .about-btn-link {
   }
 
   .about-img {
@@ -122,7 +135,7 @@
   }
 
   .about-us {
-    padding-top: 100px;
+    padding-top: 0;
     padding-bottom: 100px;
     border-radius: 0;
     background-color: unset;
