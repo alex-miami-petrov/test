@@ -1,6 +1,23 @@
-.hero-title {
-  font-size: 30px;
+.container {
+  max-width: 375px;
+  padding: 0 20px;
+  margin: 0 auto;
 }
-.hero-btn {
-  color: red;
+
+.hero {
+}
+
+.hero-title {
+}
+.hero-span {
+}
+.hero-text {
+}
+.hero-icon-scroll {
+}
+.hero-icons {
+}
+.hero-link {
+}
+.hero-img {
 }
