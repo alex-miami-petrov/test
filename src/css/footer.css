@@ -28,6 +28,11 @@
 .ftr-logo {
   margin-bottom: 20px;
 }
+
+.ftr-logo-tab {
+  display: none;
+}
+
 .ftr-soc-list {
   display: flex;
   gap: 10px;
@@ -147,6 +152,14 @@
   .ftr-wrap {
     padding-left: 40px;
     padding-right: 40px;
+  }
+
+  .ftr-logo {
+    display: none;
+  }
+
+  .ftr-logo-tab {
+    margin-bottom: 20px;
   }
 
   .ftr-tel-link {
