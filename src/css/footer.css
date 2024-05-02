@@ -159,6 +159,7 @@
   }
 
   .ftr-logo-tab {
+    display: unset;
     margin-bottom: 20px;
   }
 
@@ -244,15 +245,4 @@
   .ftr-desktop-wrap {
     display: unset;
   }
-
-  /* .ftr-container {
-    max-width: 1200px;
-  } */
-
-  /* .ftr-title {
-    position: absolute;
-    top: 13%;
-    left: 30%;
-    margin-bottom: 126px;
-  } */
 }
